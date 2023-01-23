@@ -1,3 +1,11 @@
+Hello! 
+I'm Brian...
+
+const Brian = {
+Hello! I'm Brian, ...a programming student at Institut Nicolau Copernic.
+}
+
+
 ![1](https://user-images.githubusercontent.com/91496890/214123248-aeb28359-d57d-4135-b07b-f017ebf8cf00.png)
 ![2](https://user-images.githubusercontent.com/91496890/214123281-13792890-5b72-41f4-826d-d39b4c6872a8.png)
 ![3](https://user-images.githubusercontent.com/91496890/214123285-7fe5ba3b-b8b7-49bf-abf9-baf261db8ccd.png)
