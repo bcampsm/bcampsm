@@ -1,5 +1,5 @@
-<h1 align="center">Hello! I'm Brian, a programming student at the Institut Nicolau Copernic.</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hello! I'm Brian.</h1>
+<h3 align="center">a programming student at the Institut Nicolau Copernic.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
