@@ -10,16 +10,17 @@
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
 
-<h2 align="center">Projecte actual</h2>
+<h2 align="center">Actual project</h2>
 <h3 align="left">Android app: School Quest</h3>
 
 [![Alt text](https://img.youtube.com/vi/Kq8xfwZluA8/0.jpg)](https://www.youtube.com/watch?v=Kq8xfwZluA8)
-
+<br />
+![chrome_UjhJZQRiGP](https://user-images.githubusercontent.com/91496890/214403056-a946d3d9-445d-4a47-9bd2-5c671b656b7a.png)
+<br />
+<h4 align="left">Play Store link: https://play.google.com/store/apps/details?id=com.squest.schoolquest</h4>
 <br />
 
 <h2 align="center">More about me</h2>
-
-
 ![1](https://user-images.githubusercontent.com/91496890/214123248-aeb28359-d57d-4135-b07b-f017ebf8cf00.png)
 ![2](https://user-images.githubusercontent.com/91496890/214123281-13792890-5b72-41f4-826d-d39b4c6872a8.png)
 ![3](https://user-images.githubusercontent.com/91496890/214123285-7fe5ba3b-b8b7-49bf-abf9-baf261db8ccd.png)
