@@ -18,8 +18,10 @@
 ![chrome_UjhJZQRiGP](https://user-images.githubusercontent.com/91496890/214403056-a946d3d9-445d-4a47-9bd2-5c671b656b7a.png)
 <br />
 <h4 align="left">Play Store link: https://play.google.com/store/apps/details?id=com.squest.schoolquest</h4>
+<br />
 <h4 align="left">Documentation: https://docs.google.com/document/d/1-8_msmNIkf8PBoie1wNSiQv_DNjFEL184rGtAv92KkQ/edit#heading=h.ekdv5ebyxdy6</h4>
 <br />
+
 <h2 align="center">More about me</h2>
 ![1](https://user-images.githubusercontent.com/91496890/214123248-aeb28359-d57d-4135-b07b-f017ebf8cf00.png)
 ![2](https://user-images.githubusercontent.com/91496890/214123281-13792890-5b72-41f4-826d-d39b4c6872a8.png)
