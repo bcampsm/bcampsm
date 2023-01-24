@@ -12,7 +12,9 @@
 
 <h2 align="center">Projecte actual</h2>
 <h3 align="left">Android app: School Quest</h3>
-<h3 align="left">Repository: https://github.com/bcampsm/School-Quest</h3>
+
+[![Alt text](https://img.youtube.com/vi/Kq8xfwZluA8/0.jpg)](https://www.youtube.com/watch?v=Kq8xfwZluA8)
+
 <br />
 
 <h2 align="center">More about me</h2>
