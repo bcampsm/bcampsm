@@ -16,8 +16,6 @@
 
 [![Alt text](https://img.youtube.com/vi/PCdqI4V3fZI/0.jpg)](https://www.youtube.com/watch?v=PCdqI4V3fZI)
 <br />
-![chrome_UjhJZQRiGP](https://user-images.githubusercontent.com/91496890/214403056-a946d3d9-445d-4a47-9bd2-5c671b656b7a.png)
-<br />
 <h4 align="left">Documentation: https://docs.google.com/document/d/1cWXQ7ezPg-sMNE9JLWClUbUJsyvL7E22gSF27IV2H2M/edit#heading=h.91jk9frw27sb</h4>
 <br />
 
@@ -25,8 +23,6 @@
 <h3 align="left">Android app: School Quest</h3>
 
 [![Alt text](https://img.youtube.com/vi/Kq8xfwZluA8/0.jpg)](https://www.youtube.com/watch?v=Kq8xfwZluA8)
-<br />
-![chrome_UjhJZQRiGP](https://user-images.githubusercontent.com/91496890/214403056-a946d3d9-445d-4a47-9bd2-5c671b656b7a.png)
 <br />
 <h4 align="left">Play Store link: https://play.google.com/store/apps/details?id=com.squest.schoolquest</h4>
 <br />
