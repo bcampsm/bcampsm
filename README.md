@@ -24,15 +24,18 @@
 
 <h2 align="center">More about me</h2>
 
-![1](https://user-images.githubusercontent.com/91496890/214432976-09e68180-cd27-499a-b6c4-77687a4b1e8b.png)
-![2](https://user-images.githubusercontent.com/91496890/214432980-b0837910-a5f7-453e-a45f-fed181019901.png)
-![3](https://user-images.githubusercontent.com/91496890/214432982-40cf889f-d5f7-48e8-84d8-ea34da67e1cc.png)
-![4](https://user-images.githubusercontent.com/91496890/214432984-858dd31e-95d5-4483-8147-5aa876bdd469.png)
-![5](https://user-images.githubusercontent.com/91496890/214432985-b989a385-ae85-4cf5-a553-865a525b9c0f.png)
-![6](https://user-images.githubusercontent.com/91496890/214432988-0a66f75b-8006-408b-8e34-0c91736d11c1.png)
-![7](https://user-images.githubusercontent.com/91496890/214432990-0fa076fb-159b-4845-9176-6b5e00eee4b8.png)
-![8](https://user-images.githubusercontent.com/91496890/214432993-7154fc6f-2111-4914-8a19-536969c12caa.png)
-![9](https://user-images.githubusercontent.com/91496890/214432994-a63ead47-ec04-47a9-a976-57469a987264.png)
-![10](https://user-images.githubusercontent.com/91496890/214433000-7422c137-e362-4ccd-8c82-adbb8c5c45f1.png)
-![11](https://user-images.githubusercontent.com/91496890/214433003-8c6ec3ab-1e31-492b-b417-52f49cb3a639.png)
+![1](https://user-images.githubusercontent.com/91496890/232930247-4e108a81-65dc-4fcb-9432-c2ab7a586c32.png)
+![2](https://user-images.githubusercontent.com/91496890/232930269-3a313c41-a0f5-4269-bc6b-7700887e9407.png)
+![3](https://user-images.githubusercontent.com/91496890/232930297-0e4fc107-eca2-4dde-a85d-3e40561008a5.png)
+![4](https://user-images.githubusercontent.com/91496890/232930309-a01539d8-1d25-4e7f-bda0-4a13a65f251c.png)
+![5](https://user-images.githubusercontent.com/91496890/232930322-1e5a9a7e-91b9-49a4-990b-b8b8cb35a2f2.png)
+![6](https://user-images.githubusercontent.com/91496890/232930329-9cfdda36-9015-4ceb-9679-be638b066bdd.png)
+![7](https://user-images.githubusercontent.com/91496890/232930337-4c268d02-d8a2-48f4-8c72-1e522736cea2.png)
+![8](https://user-images.githubusercontent.com/91496890/232930343-a59183a3-7a0e-41c6-9818-c2c57abcee46.png)
+![9](https://user-images.githubusercontent.com/91496890/232930350-09a00a96-9cc7-4629-be55-42c9d04f488d.png)
+![10](https://user-images.githubusercontent.com/91496890/232930361-6231c432-885d-4a8d-a500-ef3b2d649777.png)
+![11](https://user-images.githubusercontent.com/91496890/232930372-b1c3b643-49a6-4d46-b5ba-7ae8592427f6.png)
+![12](https://user-images.githubusercontent.com/91496890/232930378-87a60192-d6b7-48bf-ab27-a3efd841ad63.png)
+![13](https://user-images.githubusercontent.com/91496890/232930385-7a9f6362-c01d-4b5e-b32d-e584add6d561.png)
+
 
